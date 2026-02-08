@@ -2,7 +2,7 @@
 
 # Hi there, I'm Medhul Khandelwal! 👋
 
-### 🤖 ML Research Intern | 💻 Full-Stack Developer | 🎯 Competitive Programmer
+### 🤖 AI Engineer | 💻 Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medhulk8)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/medhulk8)
@@ -14,14 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Information Science & Engineering student** at Dayananda Sagar College of Engineering, Bengaluru (CGPA: 8.55), with a deep interest in **Machine Learning, Reinforcement Learning, and Full-Stack Development**.
+I'm a passionate **Information Science & Engineering student** at Dayananda Sagar College of Engineering, Bengaluru (CGPA: 8.55), with a deep interest in **Artificial Intelligence, Machine Learning, Reinforcement Learning, and Full-Stack Development**.
 
-- 🔭 Currently working on **Reinforcement Learning for Autonomous Drone Control** at Dronze LLP
+- 🔭 Previously worked on **Reinforcement Learning for Autonomous Drone Control** at Dronze LLP
 - 🌱 Learning advanced concepts in **RAG systems, LangGraph, and Multi-Agent AI**
 - 🏆 **1st Runner-Up** at Agent Build Day 2025 (100+ participants)
 - 🎖️ Won **Internal Round** of Smart India Hackathon 2025
 - 💡 Solved **300+ DSA problems** on Codeforces and LeetCode
-- 🏅 **Gold Medalist** at U-17 State Level Handball Championship
 - 📫 Reach me at: **medhulkhandelwal.404@gmail.com**
 
 ---
