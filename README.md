@@ -2,7 +2,7 @@
 
 - 🎓 **Information Science & Engineering** @ Dayananda Sagar College of Engineering, Bengaluru (CGPA: 8.55)
 - 🤖 Interested in **AI Agents, Multi-Agent Systems, RAG, and Full-Stack Development**
-- 🏆 **1st Runner-Up** at Agent Build Day 2025 · **Internal Round Winner** at Smart India Hackathon 2025
+- 🏆 **1st Runner-Up** at Agent Build Day 2025 by HackerEarth & agent.ai
 - 💻 Solved **300+ DSA problems** on LeetCode and Codeforces
 - ⚡ I enjoy building systems that think, adapt, and self-correct
 
