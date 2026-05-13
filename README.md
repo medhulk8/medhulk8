@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Medhul Khandelwal
 
 - 🎓 **Information Science & Engineering** @ Dayananda Sagar College of Engineering, Bengaluru (CGPA: 8.55)
-- 🤖 Interested in **AI Agents, Multi-Agent Systems, RAG, and Full-Stack Development**
+- 🤖 Building with **LangGraph, MCP, RAG, and multi-agent systems** · explored **RL (PPO)** and **computer vision** for drone control · full-stack with **FastAPI, React, and vector DBs**
 - 🏆 **1st Runner-Up** at Agent Build Day 2025 by HackerEarth & agent.ai
 - 💻 Solved **300+ DSA problems** on LeetCode and Codeforces
 - ⚡ I enjoy building systems that think, adapt, and self-correct
